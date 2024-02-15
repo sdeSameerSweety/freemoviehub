@@ -25,7 +25,7 @@ function Upcoming() {
   return (
     <>
       <Helmet>
-        <title>BlueBird Movies | Upcoming movies</title>
+        <title>MovieHub | Upcoming movies</title>
       </Helmet>
 
       <div className='w-full bg-[#10141e] md:p-10 mb-20 md:mb-0'>
