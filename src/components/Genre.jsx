@@ -25,7 +25,7 @@ function Genre() {
     return (
         <>
         <Helmet>
-            <title>MovieHub| Genres</title>
+            <title>FreeMovieHub| Genres</title>
         </Helmet>
 
         <div className='flex flex-wrap justify-center px-2'>
